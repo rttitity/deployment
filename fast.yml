@@ -28,4 +28,4 @@ spec:
     spec:
       containers:
       - name: fast-con
-        image: giga0zinucha/fast:22
+        image: giga0zinucha/fast:30
